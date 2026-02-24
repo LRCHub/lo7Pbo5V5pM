@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "真刀勝負",
+  "base_artist": "FantasticYouth",
+  "createdAt": "2026-02-24T17:12:21.298606Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "真刀勝負",
+      "artist": "FantasticYouth",
+      "has_synced": true,
+      "path": "select/01_真刀勝負_FantasticYouth.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "真刀勝負 (English ver.)",
+      "artist": "FantasticYouth",
+      "has_synced": true,
+      "path": "select/02_真刀勝負_(English_ver.)_FantasticYouth.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "真刀勝負 - English ver.",
+      "artist": "FantasticYouth",
+      "has_synced": true,
+      "path": "select/03_真刀勝負_-_English_ver._FantasticYouth.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "真刀勝負",
+      "artist": "Fantastic Youth",
+      "has_synced": false,
+      "path": "select/pl_01_真刀勝負_Fantastic_Youth.txt"
+    }
+  ]
+}
